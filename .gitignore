@@ -1,0 +1,19 @@
+# Ignore bundler config.
+.vagrant
+.rspec
+.bundle
+/tmp
+/public
+/node_modules
+/log
+
+# Ignore node log
+yarn-error.log
+npm-debug.log
+
+vm_build.log
+
+# os generated files
+.bash_history
+.cache/
+.env
